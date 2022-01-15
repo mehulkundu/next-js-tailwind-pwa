@@ -1,5 +1,5 @@
 {
-  "name": "next-js-tailwind",
+  "name": "next-js-tailwind-pwa",
   "private": true,
   "scripts": {
     "dev": "next dev",
